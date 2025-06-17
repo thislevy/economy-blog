@@ -1,0 +1,18 @@
+img, video {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+main {
+  padding: 0 1rem;
+}
